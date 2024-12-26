@@ -12,7 +12,7 @@ class CreateProductsTable extends Migration
             'id' =>  [
                 'type' => 'INT',
                 'constraint' => 11,
-                'auto_increament' => true
+                'auto_increment' => true
                 
             ],
 
